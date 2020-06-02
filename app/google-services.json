@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "637396372525",
+    "firebase_url": "https://aplicaciondeditos.firebaseio.com",
+    "project_id": "aplicaciondeditos",
+    "storage_bucket": "aplicaciondeditos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637396372525:android:a6772e8aa1203081ae3ca4",
+        "android_client_info": {
+          "package_name": "com.example.aplicacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637396372525-ttnkk054fumbntbu3uu4018quqg0kei7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aplicacion",
+            "certificate_hash": "8279d57ff169dd15fd53aa6fca4cc9b8c4e20374"
+          }
+        },
+        {
+          "client_id": "637396372525-051d0910col60dqdn9vblrafjimgkvqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Ef4E9kZpCZzLL362fKOO_tEDfOZWBi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637396372525-051d0910col60dqdn9vblrafjimgkvqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
